@@ -15,5 +15,3 @@ tree.add(78)
 tree.inorder()
 
 print (tree.contains(78))
-
-#test
